@@ -58,3 +58,6 @@ tlsection content p{
 line-height: 1.5em !important;
 margin-bottom:1.5em !important;
 }
+tlsection stafflist td{
+  padding: 1em;
+}

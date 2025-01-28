@@ -25,7 +25,7 @@ text-align:justify;
 font-size:16px;
 font-weight:500;
 line-height: 2em;
-padding-bottom:1em;
+padding-bottom:0em;
 }
 tlsection ol,tlsection ul{
 padding-left:2em !important;
@@ -46,6 +46,10 @@ line-height: 2em !important;
 text-align: justify;
 color:#000000;
 font-size:16px;
+}
+tlsection ul li{
+list-style-type:circle !important;
+
 }
 tlsection ol li hr{
 border-top: 1px solid rgba(0, 0, 0, 0.1);;

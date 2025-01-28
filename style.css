@@ -24,7 +24,7 @@ font-family: 'NotoSans-Regular' !important;
 text-align:justify;
 font-size:16px;
 font-weight:500;
-line-height: 1.5em;
+line-height: 2em;
 padding-bottom:1.5em;
 }
 tlsection ol,tlsection ul{
@@ -42,7 +42,7 @@ font-size:16px;
 
 tlsection ul li{
 list-style-type:disc !important;
-line-height:1.5em !important;
+line-height: 2em !important;
 text-align: justify;
 color:#000000;
 font-size:16px;
@@ -55,9 +55,10 @@ margin-left:-2em;
 }
 
 tlsection content p{
-line-height: 1.5em !important;
+line-height: 2em !important;
 margin-bottom:1.5em !important;
 }
 tlsection stafflist td{
+  line-height: 2em !important;
   padding-right: 0.5em;
 }
